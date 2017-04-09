@@ -1,0 +1,7 @@
+#Sun Apr 09 13:22:29 ICT 2017
+base.0=D\:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c2a6ca869b3dd907366f39e95f252a3416c62ce7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e5683a278ed1b3fac121b1f326d419a725f193c7\\classes.dex
+base.1=D\:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e5683a278ed1b3fac121b1f326d419a725f193c7
+file.0=D\:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c2a6ca869b3dd907366f39e95f252a3416c62ce7\\classes.dex

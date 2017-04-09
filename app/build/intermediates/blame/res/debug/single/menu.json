@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_main.xml",
+        "source": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\src\\main\\res\\menu\\menu_activity_main.xml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_fragment_category.xml",
+        "source": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\src\\main\\res\\menu\\menu_fragment_category.xml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_maps.xml",
+        "source": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\src\\main\\res\\menu\\menu_activity_maps.xml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_drawer.xml",
+        "source": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_details.xml",
+        "source": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\src\\main\\res\\menu\\menu_activity_details.xml"
+    }
+]

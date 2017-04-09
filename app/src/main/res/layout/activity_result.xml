@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/headtx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="RESULT" />
+
+    <TextView
+        android:id="@+id/floortx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/headtx"
+        android:layout_alignRight="@+id/headtx"
+        android:layout_below="@+id/headtx"
+        android:layout_marginTop="39dp"
+        android:layout_centerHorizontal="true"
+        android:text="ชั้นที่จอด" />
+
+    <EditText
+        android:id="@+id/flooretx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/floortx"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:ems="10"
+        android:inputType="none|textPersonName"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/placetx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/flooretx"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:text="เสาที่จอด" />
+
+    <EditText
+        android:id="@+id/placeetx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/flooretx"
+        android:layout_alignStart="@+id/flooretx"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:ems="10"
+        android:inputType="none|textPersonName"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/timetx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/placeetx"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:text="เวลาที่จอด" />
+
+    <EditText
+        android:id="@+id/timeetx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/placeetx"
+        android:layout_alignStart="@+id/placeetx"
+        android:layout_below="@+id/timetx"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp"
+        android:ems="10"
+        android:inputType="none|textPersonName"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/resultbt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/timeetx"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="39dp"
+        android:text="ค่าจอด" />
+</RelativeLayout>

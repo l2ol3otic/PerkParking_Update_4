@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Programing\Android\PerkParking\PerkParking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fd5621e4c3b7761b18151e3ba92d817102746c9">
+        <dex dex="D:\Programing\Android\PerkParking\PerkParking\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c2a6ca869b3dd907366f39e95f252a3416c62ce7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programing\Android\PerkParking\PerkParking\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Programing\Android\PerkParking\PerkParking\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e5683a278ed1b3fac121b1f326d419a725f193c7\classes.dex" />
+    </item>
+
+</items>

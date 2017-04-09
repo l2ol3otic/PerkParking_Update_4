@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\draw_order_ground_overlay.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\ac244c95f9f46a039d9a90c606dbf006b95034ea\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\ground_overlay.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unsupported.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\unsupported.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay_color.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\ground_overlay_color.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_alpha.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\visibility_ground_overlay.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\default_balloon.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\default_balloon.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ballon_gx_prefix.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_numeric.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cdata.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\cdata.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_multigeometry.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\nested_multigeometry.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_folder.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\basic_folder.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_folders.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\nested_folders.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_placemark.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\basic_placemark.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inline_style.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\inline_style.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unknwown_folder.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\unknwown_folder.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\document_nest.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\document_nest.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multiple_placemarks.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\multiple_placemarks.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\extended_data.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\extended_data.kml"
+    },
+    {
+        "merged": "D:\\Programing\\Android\\PerkParking\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multigeometry_placemarks.kml",
+        "source": "C:\\Users\\l2ol3otic2\\.android\\build-cache\\4c087f12d773872e1ff19a571d113f809cdd241a\\output\\res\\raw\\multigeometry_placemarks.kml"
+    }
+]
